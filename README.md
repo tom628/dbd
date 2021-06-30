@@ -6,7 +6,7 @@ Contents:
 - Some tricks on how to improve and stabilize the solver, e.g. relaxation, regularization and using a non-linear iterative update
 - A derivation of adding non-linear forces to the simulation (e.g. spring/damping), again using first order linearization to solve the system. As a byproduct, this shows how XPBD can be derived in a general way
 
-This method can be applied to a variety of physics simulation. I show its use for Rigid Bodies, Particles, Soft Bodies, and finally for a physics based IK solver.
+This method can be applied to a variety of physics simulation. I show its use for rigid bodies, particles, soft bodies, and finally for a physics based IK solver.
 
 Disclaimers:
 - I come from a theoretical physics backround so some of the paper is quite physicsy with a focus on derivations rather than the end result. This will probably put most people off, but hopefully this will still be interesting to one or two people out there.
